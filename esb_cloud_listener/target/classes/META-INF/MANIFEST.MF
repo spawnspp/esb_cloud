@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: esb_cloud_listener
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: user
+Implementation-Vendor-Id: com.fubon
+Build-Jdk: 1.8.0_60
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/esb_cloud/esb_cloud_listener
+Created-By: Maven Integration for Eclipse
+
